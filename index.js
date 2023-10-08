@@ -18,6 +18,8 @@ function hasTargetSum(array, target) {
 
 /* 
   Add your pseudocode here
+  use two nested for loops to sum up the array elements
+  compare the sum with the target value and return true if they match and false if they don't
 */
 
 /*
